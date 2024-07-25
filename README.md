@@ -1,2 +1,2 @@
-# capstone-project1-online-resume
+# Online-resume
 Here is my online resume which created by using only HTML.
